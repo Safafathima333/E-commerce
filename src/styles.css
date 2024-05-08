@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+h3{
+    color: green;
+    margin: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    margin-top: 20px;
+    color: blue;
+}
